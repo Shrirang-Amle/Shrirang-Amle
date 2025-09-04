@@ -33,4 +33,4 @@
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:your.email@example.com)  
 
 ---
-⭐️ From [YourGitHubUsername](https://github.com/Shrirang-Amle)
+⭐️ From [Shrirang-Amle](https://github.com/Shrirang-Amle)
